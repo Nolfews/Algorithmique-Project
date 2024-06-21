@@ -1,0 +1,16 @@
+/*
+** EPITECH PROJECT, 2024
+** stumper2
+** File description:
+** main
+*/
+
+#include "../includes/my.h"
+
+int main(int argc, char **argv)
+{
+    char **array = parsing
+        _file(argv[1]);
+    print_array(array);
+    //case_error(argc, argv);
+}

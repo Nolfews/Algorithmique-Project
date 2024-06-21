@@ -1,0 +1,11 @@
+*.log
+*.o
+temp/
+.git
+.vscode
+a.out
+.
+..
+*~
+*.txt
+gameoflife
